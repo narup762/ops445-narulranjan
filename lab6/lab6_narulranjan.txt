@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab6.py
+=================================================================
+    User login name: narulranjan
+    Linux system name: Narusha
+    Python executable: /usr/bin/python3
+    Python version: 31012
+    OS Platform: linux
+    Working Directory: /home/narulranjan/ops445/lab6
+    Start at: Tue Mar 25 21:28:03 2025
+=================================================================
